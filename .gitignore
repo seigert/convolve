@@ -1,0 +1,13 @@
+.DS_Store
+
+# SBT specific
+.bsp/
+target/
+dist/
+metals.sbt
+
+# IDE specific
+.bloop/
+.idea/
+.metals/
+.vscode/
